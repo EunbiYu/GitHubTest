@@ -471,6 +471,3 @@ CMeshDiffused::~CMeshDiffused()
 //	float fHeight = pHeightMapImage[x + (z*nWidth)] * d3dxvScale.y;
 //	return(fHeight);
 //}
-
-
-// 그거했는데 이상해
